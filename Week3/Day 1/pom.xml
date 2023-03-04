@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>Week3_Day1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Week 3 - Day 1</name>
-    <description>Week 3 - Day 1</description>
+    <name>Week3 - Day 1</name>
+    <description>Week3 - Day 1</description>
     <properties>
         <java.version>17</java.version>
     </properties>
