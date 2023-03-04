@@ -1,6 +1,6 @@
-package com.example.day3.controller;
+package com.example.day2.controller;
 
-import com.example.day3.model.Customer;
+import com.example.day2.model.Customer;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
