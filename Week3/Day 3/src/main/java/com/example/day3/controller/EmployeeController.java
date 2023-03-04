@@ -1,4 +1,4 @@
-package com.example.day3;
+package com.example.day3.controller;
 
 import com.example.week3_day4__validation.APIResponse;
 import com.example.week3_day4__validation.model.Employee;
